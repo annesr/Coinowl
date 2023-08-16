@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/coinowl/static/css/main.ccf10639.css",
+    "main.js": "/coinowl/static/js/main.4d7b36f5.js",
+    "static/media/MetaMask_Fox 1.svg": "/coinowl/static/media/MetaMask_Fox 1.5abd9d588f19135a8d8e6679a4d70ce8.svg",
+    "static/media/Line.svg": "/coinowl/static/media/Line.3acd781a034ef51fa284daad30864d14.svg",
+    "static/media/logos_reddit-icon.svg": "/coinowl/static/media/logos_reddit-icon.691ef6d0c8a2b696ccb9c5e731848ca5.svg",
+    "static/media/carbon_user-avatar-filled.svg": "/coinowl/static/media/carbon_user-avatar-filled.041ab9ee635ecbafdc92abca5ded3197.svg",
+    "static/media/Vector.svg": "/coinowl/static/media/Vector.1f42fcbcde3c1e8f045a1bf29ea34dc7.svg",
+    "static/media/mdi_question-mark-circle-outline.svg": "/coinowl/static/media/mdi_question-mark-circle-outline.dc90d2e612b6c96a89354af0af2aaf62.svg",
+    "static/media/ion_wallet-outline.svg": "/coinowl/static/media/ion_wallet-outline.6b972f93d2a4401948e29b6d984e8dcc.svg",
+    "static/media/ri_twitter-fill.svg": "/coinowl/static/media/ri_twitter-fill.9454f203d8177cd00791fc0c86d1d10a.svg",
+    "static/media/code.svg": "/coinowl/static/media/code.781c05de4c206989c02f9f6ef1564d8d.svg",
+    "static/media/simple-icons_convertio.svg": "/coinowl/static/media/simple-icons_convertio.49cf4b509f63ef300ad6db45f24359a0.svg",
+    "static/media/Icon.svg": "/coinowl/static/media/Icon.d1695b1d0680f0ad63b9135277c1b5e6.svg",
+    "static/media/notification-2-line 1.svg": "/coinowl/static/media/notification-2-line 1.847032e8a1b0103f480d4e1e447a1176.svg",
+    "static/media/users.svg": "/coinowl/static/media/users.f5f484684ef9e2dae5b002158eb95030.svg",
+    "static/media/logos_ethereum.svg": "/coinowl/static/media/logos_ethereum.f04d843061b1d98c39ff51ecfe22d6d0.svg",
+    "static/media/Group 88.svg": "/coinowl/static/media/Group 88.db0a1edea4b9f8aeab48118abe8845db.svg",
+    "static/media/simple-icons_binance.svg": "/coinowl/static/media/simple-icons_binance.860b57ca391ea31a4fa0608ebf9c4895.svg",
+    "static/media/iconamoon_search.svg": "/coinowl/static/media/iconamoon_search.998ac56697155c2abd1aa7bb58189490.svg",
+    "index.html": "/coinowl/index.html",
+    "static/media/dots-vertical.svg": "/coinowl/static/media/dots-vertical.57e6d710f2bbf6726a8ddc206b828cf0.svg",
+    "static/media/maximize.svg": "/coinowl/static/media/maximize.8e419544579987d03f6229d18370edac.svg",
+    "static/media/triangle-down.svg": "/coinowl/static/media/triangle-down.3154c5211433d19a6f01ca89c51d1bea.svg",
+    "static/media/Shape.svg": "/coinowl/static/media/Shape.1d4e2975d8e6c03aa5edfb4e29083f46.svg",
+    "static/media/triangle-up.svg": "/coinowl/static/media/triangle-up.9a3bd55813743208148ce1deeb961c61.svg",
+    "static/media/Arrow - Down 2.svg": "/coinowl/static/media/Arrow - Down 2.c370da95965fdd1eef756c8d0e569305.svg",
+    "static/media/Ellipse 1.svg": "/coinowl/static/media/Ellipse 1.3d036b24a4821f122168801006eab788.svg",
+    "main.ccf10639.css.map": "/coinowl/static/css/main.ccf10639.css.map",
+    "main.4d7b36f5.js.map": "/coinowl/static/js/main.4d7b36f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf10639.css",
+    "static/js/main.4d7b36f5.js"
+  ]
+}
